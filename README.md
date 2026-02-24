@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:anoopmeshram@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/anoop_meshram" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anoop-meshram"><img src="https://img.shields.io/github/followers/anoop-meshram?label=Follow&style=social" /></a>
+  <a href="https://github.com/anoop-meshram"><img src="https://img.shields.io/github/followers/anoopmeshram?label=Follow&style=social" /></a>
   <a href="https://github.com/anoop-meshram"><img src="https://komarev.com/ghpvc/?username=anoop-meshram&style=flat-square&color=0e75b6" alt="profile views" /></a>
 </p>
 
