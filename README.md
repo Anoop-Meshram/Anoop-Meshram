@@ -5,8 +5,8 @@
 <p align="center">
   <a href="mailto:anoopmeshram@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/anoop_meshram" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anoop-meshram"><img src="https://img.shields.io/github/followers/anoopmeshram?label=Follow&style=social" /></a>
-  <a href="https://github.com/anoop-meshram"><img src="https://komarev.com/ghpvc/?username=anoop-meshram&style=flat-square&color=0e75b6" alt="profile views" /></a>
+  <a href="https://github.com/anoopmeshram"><img src="https://img.shields.io/github/followers/anoopmeshram?label=Follow&style=social" /></a>
+  <a href="https://github.com/anoopmeshram"><img src="https://komarev.com/ghpvc/?username=anoopmeshram&style=flat-square&color=0e75b6" alt="profile views" /></a>
 </p>
 
 ---
@@ -77,8 +77,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoop-meshram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anoop-meshram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anoopmeshram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopmeshram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
